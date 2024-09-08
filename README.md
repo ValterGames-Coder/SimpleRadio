@@ -21,4 +21,6 @@ if you want to add other stations, then run:
 python3 add_stream.py
 ```
 
+Or edit **stream_list.json** in some editor
+
 **List of streams:** https://espradio.ru/stream_list/
