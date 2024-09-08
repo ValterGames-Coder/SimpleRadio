@@ -12,6 +12,7 @@ And start app:
 
 ---
 if you want to add other stations, then run:
+ 
  ```python3 add_stream.py```
 
 **List of streams:** https://espradio.ru/stream_list/
