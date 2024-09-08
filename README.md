@@ -3,9 +3,11 @@ A small Python application for listening to internet radio
 
 ### How to use:
 Install requirements:
+
 ```pip install -r requirements.txt```
 
 And start app:
+
 ```python3 app.py```
 
 
