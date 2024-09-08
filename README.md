@@ -10,7 +10,7 @@ And start app:
 
 ```python3 app.py```
 
-
+---
 if you want to add other stations, then run:
  ```python3 add_stream.py```
 
