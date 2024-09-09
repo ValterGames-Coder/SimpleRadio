@@ -7,6 +7,7 @@ Install requirements:
 ```python
 pip install -r requirements.txt
 ```
+Install **VLC**
 
 And start app:
 
